@@ -65,6 +65,9 @@ header {
   font-size: 1.9em;
   font-weight: thin;
   margin-top: -10px;
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
 }
 
 #main-doc article {
