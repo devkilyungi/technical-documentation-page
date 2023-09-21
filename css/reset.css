@@ -60,3 +60,10 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+/* 10. Reset scroll behavior */
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
