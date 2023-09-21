@@ -1,58 +1,33 @@
-# Project Name
+# Technical Documentation Page Project
 
-Brief description of your project.
+This README provides an overview of the Technical Documentation Page that is part of the freeCodeCamp's curriculum.
 
-## Table of Contents
+## Project Description
 
-- [Project Name](#project-name)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Features](#features)
-  - [Technologies Used](#technologies-used)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
-
-## Introduction
-
-Provide a brief introduction to your project. What is it about? What problem does it solve? Why is it important?
-
-## Features
-
-List the key features or functionalities of your project.
+- **Project**: The Technical Documentation Page project is one of the challenges in the FreeCodeCamp curriculum, designed to practice and demonstrate HTML and CSS skills.
+- **Objective**: The goal of this project is to create a web page that contains some technical documentation which will be used as a reference for a certain topic, in this case the fundamentals of JavaScript.
 
 ## Technologies Used
 
-- List the technologies and tools you used to build your project.
+- HTML
+- CSS
 
-## Getting Started
+## Features
 
-Provide instructions on how to get started with your project. Include details on installation, setup, and any necessary configuration.
-
-### Prerequisites
-
-List any prerequisites that users need to have before using your project.
-
-### Installation
-
-Provide step-by-step installation instructions if applicable.
+- Informative content about JavaScript Vanilla.
+- Structured HTML elements for clear organization.
+- Stylish and visually appealing design.
+- Responsive layout for optimal viewing on various devices.
 
 ## Usage
 
-Explain how to use your project. Include examples or code snippets if necessary.
-
-## Contributing
-
-Explain how others can contribute to your project if it's an open-source project.
-
-## License
-
-Specify the license for your project.
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser to view the Tribute Page.
 
 ## Acknowledgments
 
-Mention any libraries, frameworks, or resources you used or give credit to individuals or teams that helped with your project.
+- [FreeCodeCamp](https://www.freecodecamp.org/) for providing the project requirements and challenges.
+
+## Author
+
+- devkilyungi
